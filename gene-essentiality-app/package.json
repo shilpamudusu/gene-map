@@ -1,0 +1,36 @@
+{
+  "name": "gene-essentiality-landing",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@radix-ui/react-dropdown-menu": "^2.1.4",
+    "@radix-ui/react-slot": "^1.1.1",
+    "@types/node": "20.3.1",
+    "chart.js": "^4.3.0",
+    "chartjs-plugin-annotation": "^3.0.1",
+    "class-variance-authority": "^0.7.1",
+    "driver.js": "^0.9.8",
+    "framer-motion": "^10.12.16",
+    "lucide-react": "^0.244.0",
+    "next": "^15.1.5",
+    "next-themes": "^0.2.1",
+    "react": "18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "18.2.0",
+    "tailwind-merge": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.7",
+    "@types/react-dom": "^19.0.3",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.7.3"
+  }
+}
